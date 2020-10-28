@@ -31,5 +31,5 @@ Diminuir os ruídos: respondendo uma pergunta que não são é necessária;
 **Assumir a responsabilidade:** " em um grupo de 6 pessoas não se deve perguntar o que querem comer, e sim dizer ondem devem ir, pois você terá 6 respostas diferentes e provavelmente vão em lugar que ninguém inicialmente queria ir." 
 
 Fonte de pesquisa: 
-https://www.youtube.com/watch?v=yfcgz3Ivs6g
-https://cursos.alura.com.br/hipsterstech-produtividade-hipsters-76-a510
+https://www.youtube.com/watch?v=yfcgz3Ivs6g;
+https://cursos.alura.com.br/hipsterstech-produtividade-hipsters-76-a510;
