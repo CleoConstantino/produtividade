@@ -13,7 +13,7 @@ Dica: usar o *Pomodoro*.
 
 > Fazer a 1ª coisa do dia: o que menos gosta de fazer!
 
-Tentar sair da ansiedade que o dia adia nos trás.
+Tentar sair da ansiedade que o dia a dia nos trás.
 
 Touch one = se você "tocou" em uma coisa, ou resolve ou despacha;
 
