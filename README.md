@@ -5,7 +5,7 @@ O cérebro quer economizar energia, por isso é tão difícil mudar os hábitos.
 
 Dica: usar o *Pomodoro*.
 
-**18 a 8 meses** para se mudar um hábito.
+**18 dias a 8 meses** para se mudar um hábito.
 
  - Fugir do buraco negro da distração;
  - Estabelecer uma rotina;
